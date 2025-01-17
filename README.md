@@ -71,3 +71,4 @@ Contributions to the plugin are welcome! Please fork the repository, make your c
 ## Support
 
 For support, visit our website at [Peter Adenuga](https://peteradenuga.com) or contact support through the WordPress plugin page.
+Hire Me [Peter] (https://www.fiverr.com/pixelpros_dev)
